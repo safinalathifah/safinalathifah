@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-🎓 Information Technology (Cyber Security) student at Institut Teknologi Sepuluh Nopember (ITS)
-💻 Passionate about Cyber Security, Computer Vision, and Software Development
-🎨 Also enjoy UI/UX Design and creating clean, user-friendly interfaces
-🌱 Currently learning Python, Computer Vision, Web Development, and Cyber Security
-🚀 Building projects to improve my skills one repository at a time
+- 🎓 Information Technology (Cyber Security) student at Institut Teknologi Sepuluh Nopember (ITS)
+- 💻 Passionate about Cyber Security, Computer Vision, and Software Development
+- 🎨 Also enjoy UI/UX Design and creating clean, user-friendly interfaces
+- 🌱 Currently learning Python, Computer Vision, Web Development, and Cyber Security
+- 🚀 Building projects to improve my skills one repository at a time
 
 --- 
 
