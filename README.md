@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 
 ## Current Focus
 
-🔐 Learning Cyber Security fundamentals
-🤖 Building Computer Vision projects
-🌐 Exploring Full Stack Web Development
-🎯 Contributing to my GitHub portfolio
+- 🔐 Learning Cyber Security fundamentals
+- 🤖 Building Computer Vision projects
+- 🌐 Exploring Full Stack Web Development
+- 🎯 Contributing to my GitHub portfolio
 
 ---
 
