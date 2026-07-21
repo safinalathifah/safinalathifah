@@ -1,4 +1,4 @@
-## Hello! I'm Safina 👋
+# Hello! I'm Safina 👋
 
 <!--
 **safinalathifah/safinalathifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
