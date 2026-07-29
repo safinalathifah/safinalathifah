@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi, I'm Safina 👋
 
+![GitHub Jet Heatmap](https://raw.githubusercontent.com/safinalathifah/safinalathifah/main/dist/github-jet.svg)
 <!--
 **safinalathifah/safinalathifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
