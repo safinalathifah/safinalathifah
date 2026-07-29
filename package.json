@@ -1,0 +1,12 @@
+{
+  "name": "safina-github-jet",
+  "version": "1.0.0",
+  "description": "Animated GitHub contribution heatmap with jet animation for GitHub profile.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}
