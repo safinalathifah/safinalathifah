@@ -1,17 +1,13 @@
-# Hi, I'm Safina 👋
-
-![GitHub Jet Heatmap](https://raw.githubusercontent.com/safinalathifah/safinalathifah/main/dist/github-jet.svg)
-<!--
-**safinalathifah/safinalathifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/safinalathifah/safinalathifah">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safinalathifah/safinalathifah/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/safinalathifah/safinalathifah/main/light.svg">
+  </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/safinalathifah/safinalathifah/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
+</a>
